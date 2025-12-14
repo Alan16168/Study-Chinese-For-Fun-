@@ -1,0 +1,7 @@
+{
+  "name": "趣学中文 (Fun Chinese)",
+  "description": "A lively and interactive Chinese learning app for students, featuring AI-powered listening, speaking, reading, and writing exercises with fun animations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
